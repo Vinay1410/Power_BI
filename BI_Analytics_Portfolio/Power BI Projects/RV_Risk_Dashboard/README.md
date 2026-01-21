@@ -46,9 +46,7 @@ Central navigation with global filters for consistent cross-page analysis.
 
 
 
-📸 Screenshot:  
-
-!\[Intro](images/01\_intro.png)
+📸 Screenshot: Visualizations/01_intro.png
 
 
 
@@ -70,9 +68,7 @@ Executive summary view of overall residual performance.
 
 
 
-📸 Screenshot:  
-
-!\[Portfolio Overview](images/02\_rv\_portfolio\_overview.png)
+📸 Screenshot: Visualizations/02_rv_portfolio_overview.png
 
 
 
@@ -92,9 +88,7 @@ Deep-dive into model and body type performance.
 
 
 
-📸 Screenshot:  
-
-!\[Model Risk](images/03\_model\_bodyType\_risk.png)
+📸 Screenshot: Visualizations/03_model_bodyType_risk.png
 
 
 
@@ -114,9 +108,7 @@ Risk monitoring view focused on province-level exposure and volatility.
 
 
 
-📸 Screenshot:  
-
-!\[Regional Volatility](images/04\_market\_volatility.png)
+📸 Screenshot: Visualizations/04_market_volatility.png
 
 
 
