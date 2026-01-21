@@ -1,4 +1,4 @@
-\# BI \& Analytics Portfolio — Vinay Verma
+**\# BI \& Analytics Portfolio — Vinay Verma**
 
 
 
@@ -29,7 +29,7 @@ This repository contains my end-to-end BI and analytics projects demonstrating:
 
 
 
-📌 Folder: `Projects/RV\_Risk\_Performance\_Dashboard/`  
+📌 Folder: `BI_Analytics_Portfolio\Power BI Projects\RV_Risk_Dashboard`
 
 🔎 Skills: Power BI, DAX, Portfolio Analytics, Risk KPI design, Python data simulation
 
@@ -50,8 +50,6 @@ This repository contains my end-to-end BI and analytics projects demonstrating:
 
 
 📫 LinkedIn: https://www.linkedin.com/in/vinay-verma-0a7a4675
-
-📁 GitHub: https://github.com/Vinay1410/Power\_BI
 
 
 
