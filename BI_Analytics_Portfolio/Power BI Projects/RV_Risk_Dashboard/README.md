@@ -10,11 +10,6 @@ This project demonstrates how I approach Residual Value (RV) Risk analytics in a
 The dashboard focuses on RV performance monitoring, risk drivers (mileage, model, body type), and regional market volatility — aligned to how RV risk teams monitor portfolio health and emerging loss exposure.
 
 
-
-> \*\*Goal:\*\* Build an interview-ready RV Risk analytics dashboard that is not just visually appealing, but also logically grounded, scalable, and decision-oriented.
-
-
-
 ---
 
 
@@ -219,7 +214,7 @@ Run the script:
 
 ```bash
 
-python scripts/Generate\_RV\_Data.py
+python scripts/Generate_RV_Data.py
 
 
 
