@@ -13,6 +13,8 @@ This repository showcases end-to-end Power BI projects demonstrating:
 
 > ⚠️ All projects use simulated data generated via Python or public datasets. No confidential or proprietary business data is included.
 
+  ⚠️ **Disclaimer**: All datasets in this repository are synthetically generated using Python to simulate real-world business scenarios; while designed to closely mirror practical conditions, simulated data may occasionally produce anomalies or edge-case behaviors in visuals—these are inherent to the synthetic modeling process and should be viewed as part of the simulation context, with focus placed on the BI architecture, analytical logic, and data modeling capabilities demonstrated.
+
 ---
 
 # 🚀 **Power BI Projects**
