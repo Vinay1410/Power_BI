@@ -1,0 +1,1081 @@
+MonthYear,Domain,DQDimension,DQScore,RecordsChecked,IssueCount
+2023-01,Client Master,Completeness,94.32,202616,273
+2023-01,Client Master,Uniqueness,91.48,685179,324
+2023-01,Client Master,Validity,85.07,320226,630
+2023-01,Client Master,Timeliness,92.95,126298,245
+2023-01,Client Master,Consistency,94.68,1441389,195
+2023-01,Policy Admin,Completeness,90.23,646703,416
+2023-01,Policy Admin,Uniqueness,87.66,1361131,517
+2023-01,Policy Admin,Validity,91.55,1418025,474
+2023-01,Policy Admin,Timeliness,91.77,1280971,160
+2023-01,Policy Admin,Consistency,89.23,1245247,384
+2023-01,Claims,Completeness,84.8,959206,610
+2023-01,Claims,Uniqueness,85.74,320044,546
+2023-01,Claims,Validity,86.89,1128535,480
+2023-01,Claims,Timeliness,86.46,859449,473
+2023-01,Claims,Consistency,89.13,113036,172
+2023-01,Advisor,Completeness,94.72,458652,72
+2023-01,Advisor,Uniqueness,96.62,620999,201
+2023-01,Advisor,Validity,93.96,311805,185
+2023-01,Advisor,Timeliness,96.48,719140,0
+2023-01,Advisor,Consistency,96.15,443199,197
+2023-01,Employer,Completeness,86.36,1096428,555
+2023-01,Employer,Uniqueness,90.68,740113,486
+2023-01,Employer,Validity,88.74,754883,304
+2023-01,Employer,Timeliness,92.72,1487214,306
+2023-01,Employer,Consistency,90.08,288300,203
+2023-01,Transactions,Completeness,89.37,1064191,369
+2023-01,Transactions,Uniqueness,90.77,1041653,447
+2023-01,Transactions,Validity,89.02,1095931,420
+2023-01,Transactions,Timeliness,84.48,600039,468
+2023-01,Transactions,Consistency,84.71,231958,521
+2023-02,Client Master,Completeness,94.45,1208940,249
+2023-02,Client Master,Uniqueness,88.2,602100,207
+2023-02,Client Master,Validity,91.24,814893,330
+2023-02,Client Master,Timeliness,93.61,162093,179
+2023-02,Client Master,Consistency,93.19,1501196,148
+2023-02,Policy Admin,Completeness,91.15,1533260,92
+2023-02,Policy Admin,Uniqueness,90.62,924130,222
+2023-02,Policy Admin,Validity,90.16,1421922,592
+2023-02,Policy Admin,Timeliness,92.17,1359953,457
+2023-02,Policy Admin,Consistency,88.87,1023990,461
+2023-02,Claims,Completeness,90.24,195821,155
+2023-02,Claims,Uniqueness,85.03,1413287,630
+2023-02,Claims,Validity,88.06,129157,651
+2023-02,Claims,Timeliness,87.96,233548,613
+2023-02,Claims,Consistency,84.67,1554311,640
+2023-02,Advisor,Completeness,92.05,906151,197
+2023-02,Advisor,Uniqueness,97.43,221283,158
+2023-02,Advisor,Validity,96.27,1313593,167
+2023-02,Advisor,Timeliness,95.15,525412,98
+2023-02,Advisor,Consistency,97.0,246250,161
+2023-02,Employer,Completeness,86.43,231436,570
+2023-02,Employer,Uniqueness,90.91,759983,449
+2023-02,Employer,Validity,89.98,717316,267
+2023-02,Employer,Timeliness,92.22,369852,285
+2023-02,Employer,Consistency,95.27,693899,303
+2023-02,Transactions,Completeness,88.0,1546786,684
+2023-02,Transactions,Uniqueness,88.41,1154076,359
+2023-02,Transactions,Validity,88.83,775372,658
+2023-02,Transactions,Timeliness,81.16,639862,645
+2023-02,Transactions,Consistency,85.61,1346754,598
+2023-03,Client Master,Completeness,92.08,915995,570
+2023-03,Client Master,Uniqueness,93.27,930024,232
+2023-03,Client Master,Validity,85.09,887456,444
+2023-03,Client Master,Timeliness,90.54,1076660,362
+2023-03,Client Master,Consistency,94.17,212718,31
+2023-03,Policy Admin,Completeness,92.07,1033074,383
+2023-03,Policy Admin,Uniqueness,91.59,1181322,311
+2023-03,Policy Admin,Validity,91.39,594693,311
+2023-03,Policy Admin,Timeliness,89.23,1342059,220
+2023-03,Policy Admin,Consistency,89.26,526862,618
+2023-03,Claims,Completeness,87.91,1541865,210
+2023-03,Claims,Uniqueness,86.59,293015,582
+2023-03,Claims,Validity,84.27,930652,641
+2023-03,Claims,Timeliness,85.69,1577297,400
+2023-03,Claims,Consistency,88.25,376457,425
+2023-03,Advisor,Completeness,95.59,1446471,274
+2023-03,Advisor,Uniqueness,96.39,267963,214
+2023-03,Advisor,Validity,97.04,426101,80
+2023-03,Advisor,Timeliness,91.59,495644,252
+2023-03,Advisor,Consistency,97.27,515875,260
+2023-03,Employer,Completeness,84.77,918647,440
+2023-03,Employer,Uniqueness,89.47,571213,358
+2023-03,Employer,Validity,92.23,457150,360
+2023-03,Employer,Timeliness,87.33,828485,544
+2023-03,Employer,Consistency,90.15,649661,307
+2023-03,Transactions,Completeness,86.23,1534048,413
+2023-03,Transactions,Uniqueness,86.87,1202083,635
+2023-03,Transactions,Validity,89.94,101976,298
+2023-03,Transactions,Timeliness,86.4,1592478,620
+2023-03,Transactions,Consistency,85.45,888065,735
+2023-04,Client Master,Completeness,95.61,497861,32
+2023-04,Client Master,Uniqueness,89.44,1305043,347
+2023-04,Client Master,Validity,92.76,335894,359
+2023-04,Client Master,Timeliness,93.92,1024292,221
+2023-04,Client Master,Consistency,94.02,222581,200
+2023-04,Policy Admin,Completeness,90.52,721181,286
+2023-04,Policy Admin,Uniqueness,89.73,390875,358
+2023-04,Policy Admin,Validity,89.3,230530,460
+2023-04,Policy Admin,Timeliness,93.2,959861,327
+2023-04,Policy Admin,Consistency,92.73,1186566,308
+2023-04,Claims,Completeness,88.27,1476132,502
+2023-04,Claims,Uniqueness,89.88,762387,290
+2023-04,Claims,Validity,89.22,1243363,369
+2023-04,Claims,Timeliness,88.28,605285,374
+2023-04,Claims,Consistency,85.51,1243475,295
+2023-04,Advisor,Completeness,95.29,1567538,0
+2023-04,Advisor,Uniqueness,94.37,833121,448
+2023-04,Advisor,Validity,97.67,1021771,132
+2023-04,Advisor,Timeliness,95.88,1531325,134
+2023-04,Advisor,Consistency,88.19,1209662,352
+2023-04,Employer,Completeness,90.36,93891,391
+2023-04,Employer,Uniqueness,89.49,1361668,192
+2023-04,Employer,Validity,89.9,1579943,408
+2023-04,Employer,Timeliness,91.15,519892,517
+2023-04,Employer,Consistency,89.84,332326,480
+2023-04,Transactions,Completeness,86.04,710239,380
+2023-04,Transactions,Uniqueness,86.98,650549,596
+2023-04,Transactions,Validity,89.02,235131,567
+2023-04,Transactions,Timeliness,83.06,932601,447
+2023-04,Transactions,Consistency,86.87,93577,539
+2023-05,Client Master,Completeness,90.97,703459,312
+2023-05,Client Master,Uniqueness,91.04,1447198,307
+2023-05,Client Master,Validity,92.43,1193647,378
+2023-05,Client Master,Timeliness,85.48,1376908,366
+2023-05,Client Master,Consistency,91.16,1279732,217
+2023-05,Policy Admin,Completeness,89.71,1315585,394
+2023-05,Policy Admin,Uniqueness,86.78,627915,284
+2023-05,Policy Admin,Validity,88.26,134259,450
+2023-05,Policy Admin,Timeliness,92.37,1221451,231
+2023-05,Policy Admin,Consistency,90.71,1310211,326
+2023-05,Claims,Completeness,84.73,1363538,445
+2023-05,Claims,Uniqueness,84.39,1162940,527
+2023-05,Claims,Validity,87.89,1243722,587
+2023-05,Claims,Timeliness,87.56,1208409,416
+2023-05,Claims,Consistency,89.55,253664,444
+2023-05,Advisor,Completeness,88.34,1266397,357
+2023-05,Advisor,Uniqueness,96.21,205241,7
+2023-05,Advisor,Validity,95.1,1406455,139
+2023-05,Advisor,Timeliness,97.53,1559948,0
+2023-05,Advisor,Consistency,96.36,205750,123
+2023-05,Employer,Completeness,89.18,1122861,538
+2023-05,Employer,Uniqueness,91.26,1570364,214
+2023-05,Employer,Validity,90.36,471111,287
+2023-05,Employer,Timeliness,91.36,1538896,423
+2023-05,Employer,Consistency,89.52,676930,399
+2023-05,Transactions,Completeness,86.14,560950,291
+2023-05,Transactions,Uniqueness,86.84,631440,358
+2023-05,Transactions,Validity,84.06,1098953,512
+2023-05,Transactions,Timeliness,81.41,1531473,701
+2023-05,Transactions,Consistency,84.19,83084,612
+2023-06,Client Master,Completeness,90.94,618171,275
+2023-06,Client Master,Uniqueness,95.41,234857,308
+2023-06,Client Master,Validity,92.21,261936,158
+2023-06,Client Master,Timeliness,87.83,971535,550
+2023-06,Client Master,Consistency,90.36,1423619,338
+2023-06,Policy Admin,Completeness,92.61,1184650,154
+2023-06,Policy Admin,Uniqueness,91.08,1045774,561
+2023-06,Policy Admin,Validity,88.15,1262150,387
+2023-06,Policy Admin,Timeliness,92.31,1110300,174
+2023-06,Policy Admin,Consistency,88.74,1217868,560
+2023-06,Claims,Completeness,84.98,145588,388
+2023-06,Claims,Uniqueness,85.46,316048,639
+2023-06,Claims,Validity,87.29,867000,545
+2023-06,Claims,Timeliness,87.96,593674,393
+2023-06,Claims,Consistency,88.16,722801,235
+2023-06,Advisor,Completeness,94.58,474353,84
+2023-06,Advisor,Uniqueness,98.04,1522182,102
+2023-06,Advisor,Validity,95.55,249661,0
+2023-06,Advisor,Timeliness,97.26,333521,0
+2023-06,Advisor,Consistency,97.68,826212,41
+2023-06,Employer,Completeness,93.39,1544239,198
+2023-06,Employer,Uniqueness,87.95,245725,281
+2023-06,Employer,Validity,91.55,199973,552
+2023-06,Employer,Timeliness,91.24,615230,247
+2023-06,Employer,Consistency,84.08,419965,635
+2023-06,Transactions,Completeness,88.38,319987,462
+2023-06,Transactions,Uniqueness,81.54,371509,528
+2023-06,Transactions,Validity,86.57,1004274,408
+2023-06,Transactions,Timeliness,89.37,781751,356
+2023-06,Transactions,Consistency,86.49,1206882,203
+2023-07,Client Master,Completeness,89.99,977637,407
+2023-07,Client Master,Uniqueness,91.41,1041490,226
+2023-07,Client Master,Validity,91.25,1566782,231
+2023-07,Client Master,Timeliness,92.37,771482,420
+2023-07,Client Master,Consistency,89.87,696563,304
+2023-07,Policy Admin,Completeness,83.76,1317232,662
+2023-07,Policy Admin,Uniqueness,88.45,873063,656
+2023-07,Policy Admin,Validity,91.72,1305573,440
+2023-07,Policy Admin,Timeliness,90.52,850415,191
+2023-07,Policy Admin,Consistency,88.87,599407,227
+2023-07,Claims,Completeness,89.02,869684,279
+2023-07,Claims,Uniqueness,85.88,591619,173
+2023-07,Claims,Validity,89.55,101484,602
+2023-07,Claims,Timeliness,87.24,1502833,641
+2023-07,Claims,Consistency,87.89,1074017,313
+2023-07,Advisor,Completeness,93.48,1471169,363
+2023-07,Advisor,Uniqueness,96.36,340699,80
+2023-07,Advisor,Validity,94.6,1545572,222
+2023-07,Advisor,Timeliness,95.94,1361916,258
+2023-07,Advisor,Consistency,94.35,1497256,221
+2023-07,Employer,Completeness,93.8,1006444,0
+2023-07,Employer,Uniqueness,90.4,1145585,440
+2023-07,Employer,Validity,88.53,193062,483
+2023-07,Employer,Timeliness,94.09,732117,157
+2023-07,Employer,Consistency,90.84,338392,274
+2023-07,Transactions,Completeness,85.95,1559657,717
+2023-07,Transactions,Uniqueness,88.56,826725,349
+2023-07,Transactions,Validity,89.72,370579,319
+2023-07,Transactions,Timeliness,86.99,542631,361
+2023-07,Transactions,Consistency,85.53,855363,569
+2023-08,Client Master,Completeness,91.96,1474203,263
+2023-08,Client Master,Uniqueness,91.41,183254,239
+2023-08,Client Master,Validity,91.09,1111251,358
+2023-08,Client Master,Timeliness,91.82,309521,414
+2023-08,Client Master,Consistency,90.16,617948,245
+2023-08,Policy Admin,Completeness,89.26,446540,388
+2023-08,Policy Admin,Uniqueness,88.81,903512,617
+2023-08,Policy Admin,Validity,91.62,912927,218
+2023-08,Policy Admin,Timeliness,91.46,1063218,350
+2023-08,Policy Admin,Consistency,86.3,506659,309
+2023-08,Claims,Completeness,89.48,289378,442
+2023-08,Claims,Uniqueness,88.35,381489,449
+2023-08,Claims,Validity,88.37,1430229,382
+2023-08,Claims,Timeliness,86.71,842414,605
+2023-08,Claims,Consistency,88.41,1088425,296
+2023-08,Advisor,Completeness,96.39,1394198,329
+2023-08,Advisor,Uniqueness,97.72,811732,173
+2023-08,Advisor,Validity,92.92,972874,0
+2023-08,Advisor,Timeliness,91.39,168732,199
+2023-08,Advisor,Consistency,96.71,926135,59
+2023-08,Employer,Completeness,89.92,1512510,272
+2023-08,Employer,Uniqueness,91.95,1146040,159
+2023-08,Employer,Validity,92.64,767645,266
+2023-08,Employer,Timeliness,91.4,516455,344
+2023-08,Employer,Consistency,88.31,866532,511
+2023-08,Transactions,Completeness,85.73,139332,512
+2023-08,Transactions,Uniqueness,86.07,652026,196
+2023-08,Transactions,Validity,90.93,231739,423
+2023-08,Transactions,Timeliness,88.8,997362,122
+2023-08,Transactions,Consistency,84.49,1453693,583
+2023-09,Client Master,Completeness,92.51,199393,356
+2023-09,Client Master,Uniqueness,93.78,422848,481
+2023-09,Client Master,Validity,90.96,489358,453
+2023-09,Client Master,Timeliness,90.99,650520,211
+2023-09,Client Master,Consistency,92.45,630794,299
+2023-09,Policy Admin,Completeness,93.48,272923,321
+2023-09,Policy Admin,Uniqueness,86.24,852453,408
+2023-09,Policy Admin,Validity,87.58,161513,428
+2023-09,Policy Admin,Timeliness,89.99,223894,443
+2023-09,Policy Admin,Consistency,93.0,364831,392
+2023-09,Claims,Completeness,87.23,325813,403
+2023-09,Claims,Uniqueness,86.49,1560456,473
+2023-09,Claims,Validity,89.76,1152900,445
+2023-09,Claims,Timeliness,91.89,425543,491
+2023-09,Claims,Consistency,86.11,1328289,613
+2023-09,Advisor,Completeness,98.44,695966,0
+2023-09,Advisor,Uniqueness,89.92,108244,414
+2023-09,Advisor,Validity,93.98,147775,176
+2023-09,Advisor,Timeliness,93.8,961656,396
+2023-09,Advisor,Consistency,93.14,1210114,251
+2023-09,Employer,Completeness,90.92,260036,627
+2023-09,Employer,Uniqueness,93.39,651119,436
+2023-09,Employer,Validity,82.93,887137,605
+2023-09,Employer,Timeliness,91.42,277216,239
+2023-09,Employer,Consistency,88.16,306659,186
+2023-09,Transactions,Completeness,87.25,1225272,305
+2023-09,Transactions,Uniqueness,87.17,146313,479
+2023-09,Transactions,Validity,86.24,1222128,385
+2023-09,Transactions,Timeliness,87.21,681899,656
+2023-09,Transactions,Consistency,88.22,667999,463
+2023-10,Client Master,Completeness,90.61,1445044,209
+2023-10,Client Master,Uniqueness,91.1,1133044,234
+2023-10,Client Master,Validity,91.3,159300,176
+2023-10,Client Master,Timeliness,90.6,1327280,249
+2023-10,Client Master,Consistency,91.24,479976,405
+2023-10,Policy Admin,Completeness,88.4,830271,324
+2023-10,Policy Admin,Uniqueness,89.44,135363,537
+2023-10,Policy Admin,Validity,93.6,1166862,255
+2023-10,Policy Admin,Timeliness,90.81,904888,275
+2023-10,Policy Admin,Consistency,87.32,254916,428
+2023-10,Claims,Completeness,79.66,1290129,870
+2023-10,Claims,Uniqueness,88.35,510715,464
+2023-10,Claims,Validity,87.88,544275,502
+2023-10,Claims,Timeliness,85.92,1253074,565
+2023-10,Claims,Consistency,88.65,1111869,426
+2023-10,Advisor,Completeness,96.12,1160597,232
+2023-10,Advisor,Uniqueness,95.83,664991,198
+2023-10,Advisor,Validity,95.89,1272726,86
+2023-10,Advisor,Timeliness,96.87,1408384,284
+2023-10,Advisor,Consistency,97.52,1194520,94
+2023-10,Employer,Completeness,91.65,1268245,260
+2023-10,Employer,Uniqueness,90.37,1180860,242
+2023-10,Employer,Validity,90.48,1553964,324
+2023-10,Employer,Timeliness,94.03,1112833,195
+2023-10,Employer,Consistency,91.48,806651,317
+2023-10,Transactions,Completeness,85.86,1523381,527
+2023-10,Transactions,Uniqueness,89.45,1032879,295
+2023-10,Transactions,Validity,87.28,1187785,395
+2023-10,Transactions,Timeliness,86.86,811726,657
+2023-10,Transactions,Consistency,85.28,600852,518
+2023-11,Client Master,Completeness,93.26,1589929,144
+2023-11,Client Master,Uniqueness,92.85,710630,158
+2023-11,Client Master,Validity,91.49,977365,285
+2023-11,Client Master,Timeliness,90.92,1048389,389
+2023-11,Client Master,Consistency,92.39,704900,230
+2023-11,Policy Admin,Completeness,87.12,642164,406
+2023-11,Policy Admin,Uniqueness,92.82,264509,408
+2023-11,Policy Admin,Validity,90.81,1471599,319
+2023-11,Policy Admin,Timeliness,83.08,529003,856
+2023-11,Policy Admin,Consistency,87.89,1130882,510
+2023-11,Claims,Completeness,89.86,1394942,5
+2023-11,Claims,Uniqueness,87.98,1292366,407
+2023-11,Claims,Validity,88.58,883625,498
+2023-11,Claims,Timeliness,89.68,134482,351
+2023-11,Claims,Consistency,90.92,1142776,354
+2023-11,Advisor,Completeness,94.78,672877,210
+2023-11,Advisor,Uniqueness,97.61,1288935,197
+2023-11,Advisor,Validity,94.43,517473,239
+2023-11,Advisor,Timeliness,96.38,87511,294
+2023-11,Advisor,Consistency,98.17,191890,0
+2023-11,Employer,Completeness,89.36,576199,465
+2023-11,Employer,Uniqueness,94.93,933029,204
+2023-11,Employer,Validity,92.75,876007,275
+2023-11,Employer,Timeliness,89.09,633922,255
+2023-11,Employer,Consistency,88.75,814703,476
+2023-11,Transactions,Completeness,86.91,1337459,610
+2023-11,Transactions,Uniqueness,86.24,430129,366
+2023-11,Transactions,Validity,87.45,361176,426
+2023-11,Transactions,Timeliness,86.34,208500,526
+2023-11,Transactions,Consistency,84.13,249575,462
+2023-12,Client Master,Completeness,95.93,827339,0
+2023-12,Client Master,Uniqueness,91.29,622062,113
+2023-12,Client Master,Validity,92.91,1095021,150
+2023-12,Client Master,Timeliness,90.27,1114556,160
+2023-12,Client Master,Consistency,95.55,1128102,269
+2023-12,Policy Admin,Completeness,91.26,1208642,293
+2023-12,Policy Admin,Uniqueness,89.19,1458470,328
+2023-12,Policy Admin,Validity,87.23,1501357,523
+2023-12,Policy Admin,Timeliness,89.0,725038,576
+2023-12,Policy Admin,Consistency,89.7,728716,512
+2023-12,Claims,Completeness,92.08,935447,306
+2023-12,Claims,Uniqueness,88.95,1260566,132
+2023-12,Claims,Validity,85.5,173376,669
+2023-12,Claims,Timeliness,89.2,526694,285
+2023-12,Claims,Consistency,90.25,1448400,576
+2023-12,Advisor,Completeness,97.11,842099,150
+2023-12,Advisor,Uniqueness,95.19,766777,103
+2023-12,Advisor,Validity,93.1,1526994,356
+2023-12,Advisor,Timeliness,95.73,1188692,109
+2023-12,Advisor,Consistency,96.63,711509,231
+2023-12,Employer,Completeness,92.75,1108146,394
+2023-12,Employer,Uniqueness,83.31,283824,736
+2023-12,Employer,Validity,91.21,1487135,208
+2023-12,Employer,Timeliness,91.76,824284,167
+2023-12,Employer,Consistency,91.73,230270,295
+2023-12,Transactions,Completeness,87.32,883314,299
+2023-12,Transactions,Uniqueness,85.01,1178894,525
+2023-12,Transactions,Validity,83.76,821377,376
+2023-12,Transactions,Timeliness,88.04,473023,367
+2023-12,Transactions,Consistency,88.53,306129,485
+2024-01,Client Master,Completeness,90.12,410365,435
+2024-01,Client Master,Uniqueness,93.0,1165357,278
+2024-01,Client Master,Validity,88.38,542605,456
+2024-01,Client Master,Timeliness,86.84,1313114,497
+2024-01,Client Master,Consistency,93.64,918521,85
+2024-01,Policy Admin,Completeness,90.47,1001014,332
+2024-01,Policy Admin,Uniqueness,88.92,93127,301
+2024-01,Policy Admin,Validity,93.3,671848,300
+2024-01,Policy Admin,Timeliness,89.01,331691,369
+2024-01,Policy Admin,Consistency,88.99,476169,459
+2024-01,Claims,Completeness,90.51,582981,240
+2024-01,Claims,Uniqueness,87.92,1005003,397
+2024-01,Claims,Validity,87.99,656864,416
+2024-01,Claims,Timeliness,91.46,594641,376
+2024-01,Claims,Consistency,87.38,1199133,701
+2024-01,Advisor,Completeness,97.41,802842,0
+2024-01,Advisor,Uniqueness,96.13,1422785,0
+2024-01,Advisor,Validity,93.6,990200,298
+2024-01,Advisor,Timeliness,96.61,1329153,208
+2024-01,Advisor,Consistency,91.77,1035236,47
+2024-01,Employer,Completeness,91.07,270885,247
+2024-01,Employer,Uniqueness,89.7,829525,284
+2024-01,Employer,Validity,89.12,1491761,334
+2024-01,Employer,Timeliness,93.01,101837,195
+2024-01,Employer,Consistency,89.9,673529,236
+2024-01,Transactions,Completeness,88.31,627692,240
+2024-01,Transactions,Uniqueness,87.55,1273047,263
+2024-01,Transactions,Validity,85.1,415375,647
+2024-01,Transactions,Timeliness,85.17,1431762,444
+2024-01,Transactions,Consistency,88.0,1190107,318
+2024-02,Client Master,Completeness,91.87,127779,409
+2024-02,Client Master,Uniqueness,93.18,283941,44
+2024-02,Client Master,Validity,91.6,1350263,369
+2024-02,Client Master,Timeliness,91.85,1020855,373
+2024-02,Client Master,Consistency,92.91,447319,413
+2024-02,Policy Admin,Completeness,89.74,1014222,331
+2024-02,Policy Admin,Uniqueness,88.32,1514837,417
+2024-02,Policy Admin,Validity,83.53,768568,503
+2024-02,Policy Admin,Timeliness,89.61,374526,239
+2024-02,Policy Admin,Consistency,90.12,1485051,526
+2024-02,Claims,Completeness,88.49,533212,444
+2024-02,Claims,Uniqueness,86.58,560240,598
+2024-02,Claims,Validity,89.85,1414781,395
+2024-02,Claims,Timeliness,87.64,1370172,217
+2024-02,Claims,Consistency,87.08,581779,223
+2024-02,Advisor,Completeness,94.04,712062,505
+2024-02,Advisor,Uniqueness,92.83,156139,88
+2024-02,Advisor,Validity,93.09,1062816,135
+2024-02,Advisor,Timeliness,93.81,289211,392
+2024-02,Advisor,Consistency,96.81,1593372,146
+2024-02,Employer,Completeness,88.39,710724,331
+2024-02,Employer,Uniqueness,90.58,97198,267
+2024-02,Employer,Validity,92.69,788898,316
+2024-02,Employer,Timeliness,88.53,140224,358
+2024-02,Employer,Consistency,92.56,1365016,161
+2024-02,Transactions,Completeness,89.64,96923,116
+2024-02,Transactions,Uniqueness,86.18,1007321,511
+2024-02,Transactions,Validity,86.24,137451,491
+2024-02,Transactions,Timeliness,88.8,1092779,474
+2024-02,Transactions,Consistency,88.49,888922,317
+2024-03,Client Master,Completeness,91.44,669630,217
+2024-03,Client Master,Uniqueness,94.26,1117914,300
+2024-03,Client Master,Validity,92.67,1537694,104
+2024-03,Client Master,Timeliness,92.12,1164866,206
+2024-03,Client Master,Consistency,91.01,997826,233
+2024-03,Policy Admin,Completeness,90.36,489610,405
+2024-03,Policy Admin,Uniqueness,91.73,415249,193
+2024-03,Policy Admin,Validity,91.07,1462226,415
+2024-03,Policy Admin,Timeliness,87.37,1576384,470
+2024-03,Policy Admin,Consistency,90.07,578016,316
+2024-03,Claims,Completeness,86.43,557272,545
+2024-03,Claims,Uniqueness,86.22,606691,561
+2024-03,Claims,Validity,87.27,1432631,495
+2024-03,Claims,Timeliness,88.04,1450027,593
+2024-03,Claims,Consistency,91.54,232400,303
+2024-03,Advisor,Completeness,92.29,659521,264
+2024-03,Advisor,Uniqueness,94.82,433510,226
+2024-03,Advisor,Validity,93.44,576354,174
+2024-03,Advisor,Timeliness,96.69,1010760,226
+2024-03,Advisor,Consistency,93.31,1220804,107
+2024-03,Employer,Completeness,92.82,801474,7
+2024-03,Employer,Uniqueness,91.59,678808,301
+2024-03,Employer,Validity,91.29,381613,333
+2024-03,Employer,Timeliness,91.73,1279494,161
+2024-03,Employer,Consistency,93.01,939167,213
+2024-03,Transactions,Completeness,86.3,552710,346
+2024-03,Transactions,Uniqueness,88.78,662320,422
+2024-03,Transactions,Validity,84.3,507855,686
+2024-03,Transactions,Timeliness,87.01,1285998,658
+2024-03,Transactions,Consistency,90.81,1278524,246
+2024-04,Client Master,Completeness,92.36,542391,186
+2024-04,Client Master,Uniqueness,91.89,530959,166
+2024-04,Client Master,Validity,93.65,382135,186
+2024-04,Client Master,Timeliness,91.64,776969,271
+2024-04,Client Master,Consistency,98.05,1339991,197
+2024-04,Policy Admin,Completeness,89.41,1336528,405
+2024-04,Policy Admin,Uniqueness,91.83,1206041,312
+2024-04,Policy Admin,Validity,91.63,1098234,168
+2024-04,Policy Admin,Timeliness,90.66,1007794,357
+2024-04,Policy Admin,Consistency,90.09,416427,424
+2024-04,Claims,Completeness,86.82,157938,495
+2024-04,Claims,Uniqueness,86.15,591330,529
+2024-04,Claims,Validity,88.7,1016754,446
+2024-04,Claims,Timeliness,86.96,891648,422
+2024-04,Claims,Consistency,86.97,1462742,488
+2024-04,Advisor,Completeness,93.13,660230,131
+2024-04,Advisor,Uniqueness,94.72,1447403,204
+2024-04,Advisor,Validity,96.44,1389730,115
+2024-04,Advisor,Timeliness,92.76,1062629,320
+2024-04,Advisor,Consistency,96.4,198216,196
+2024-04,Employer,Completeness,88.93,1539310,295
+2024-04,Employer,Uniqueness,90.97,1459243,238
+2024-04,Employer,Validity,90.64,295546,386
+2024-04,Employer,Timeliness,89.85,1276303,480
+2024-04,Employer,Consistency,89.38,1532195,341
+2024-04,Transactions,Completeness,84.52,1047775,606
+2024-04,Transactions,Uniqueness,90.3,1260840,343
+2024-04,Transactions,Validity,87.63,709209,431
+2024-04,Transactions,Timeliness,87.97,1378101,476
+2024-04,Transactions,Consistency,86.39,365516,366
+2024-05,Client Master,Completeness,92.61,1228108,412
+2024-05,Client Master,Uniqueness,89.23,1410820,305
+2024-05,Client Master,Validity,93.89,287453,155
+2024-05,Client Master,Timeliness,91.69,357939,306
+2024-05,Client Master,Consistency,94.52,1121292,0
+2024-05,Policy Admin,Completeness,88.94,1484303,469
+2024-05,Policy Admin,Uniqueness,92.46,95257,297
+2024-05,Policy Admin,Validity,92.4,1147600,398
+2024-05,Policy Admin,Timeliness,90.54,218407,317
+2024-05,Policy Admin,Consistency,90.2,1307955,477
+2024-05,Claims,Completeness,89.25,107744,396
+2024-05,Claims,Uniqueness,89.07,1097454,188
+2024-05,Claims,Validity,93.14,1317803,199
+2024-05,Claims,Timeliness,87.82,442810,454
+2024-05,Claims,Consistency,85.56,1234603,439
+2024-05,Advisor,Completeness,94.84,823433,218
+2024-05,Advisor,Uniqueness,94.64,364830,84
+2024-05,Advisor,Validity,92.8,664015,54
+2024-05,Advisor,Timeliness,96.61,1522706,0
+2024-05,Advisor,Consistency,95.81,1492648,0
+2024-05,Employer,Completeness,90.69,1005956,124
+2024-05,Employer,Uniqueness,82.46,1311642,547
+2024-05,Employer,Validity,88.84,1484668,609
+2024-05,Employer,Timeliness,91.21,1251878,318
+2024-05,Employer,Consistency,87.9,944043,548
+2024-05,Transactions,Completeness,87.26,146953,435
+2024-05,Transactions,Uniqueness,85.87,597846,457
+2024-05,Transactions,Validity,89.8,1046778,532
+2024-05,Transactions,Timeliness,86.02,597572,340
+2024-05,Transactions,Consistency,87.08,301691,448
+2024-06,Client Master,Completeness,95.18,1301187,69
+2024-06,Client Master,Uniqueness,89.87,1215828,217
+2024-06,Client Master,Validity,91.56,1260830,400
+2024-06,Client Master,Timeliness,92.3,544945,54
+2024-06,Client Master,Consistency,95.25,1264022,0
+2024-06,Policy Admin,Completeness,90.36,491951,404
+2024-06,Policy Admin,Uniqueness,89.61,1220252,206
+2024-06,Policy Admin,Validity,88.14,794906,288
+2024-06,Policy Admin,Timeliness,90.96,1063585,354
+2024-06,Policy Admin,Consistency,92.55,827473,74
+2024-06,Claims,Completeness,86.06,428213,340
+2024-06,Claims,Uniqueness,86.07,209881,427
+2024-06,Claims,Validity,87.64,689529,714
+2024-06,Claims,Timeliness,85.1,841935,414
+2024-06,Claims,Consistency,88.91,529466,293
+2024-06,Advisor,Completeness,93.79,146348,226
+2024-06,Advisor,Uniqueness,95.9,801318,31
+2024-06,Advisor,Validity,97.92,1052903,0
+2024-06,Advisor,Timeliness,94.3,339265,206
+2024-06,Advisor,Consistency,94.87,1086776,28
+2024-06,Employer,Completeness,89.75,1367991,318
+2024-06,Employer,Uniqueness,91.58,123752,294
+2024-06,Employer,Validity,90.39,920984,396
+2024-06,Employer,Timeliness,92.69,286877,244
+2024-06,Employer,Consistency,90.51,994246,365
+2024-06,Transactions,Completeness,87.41,403643,354
+2024-06,Transactions,Uniqueness,88.02,564020,292
+2024-06,Transactions,Validity,87.73,844523,520
+2024-06,Transactions,Timeliness,89.16,1565244,598
+2024-06,Transactions,Consistency,84.63,822052,564
+2024-07,Client Master,Completeness,91.83,1002171,301
+2024-07,Client Master,Uniqueness,90.87,977862,429
+2024-07,Client Master,Validity,94.82,674853,155
+2024-07,Client Master,Timeliness,92.58,964413,263
+2024-07,Client Master,Consistency,93.12,1104715,334
+2024-07,Policy Admin,Completeness,87.61,1184143,554
+2024-07,Policy Admin,Uniqueness,88.27,1132315,518
+2024-07,Policy Admin,Validity,89.63,1156450,421
+2024-07,Policy Admin,Timeliness,89.03,574692,270
+2024-07,Policy Admin,Consistency,88.02,1051720,283
+2024-07,Claims,Completeness,90.76,1322738,314
+2024-07,Claims,Uniqueness,88.23,1385847,440
+2024-07,Claims,Validity,86.99,438657,334
+2024-07,Claims,Timeliness,84.62,424746,619
+2024-07,Claims,Consistency,90.03,235061,389
+2024-07,Advisor,Completeness,98.01,1405067,83
+2024-07,Advisor,Uniqueness,97.0,1147398,71
+2024-07,Advisor,Validity,94.9,897805,58
+2024-07,Advisor,Timeliness,96.92,1195803,114
+2024-07,Advisor,Consistency,93.63,603554,428
+2024-07,Employer,Completeness,91.54,295969,341
+2024-07,Employer,Uniqueness,89.48,518975,232
+2024-07,Employer,Validity,93.82,843825,377
+2024-07,Employer,Timeliness,92.72,938289,469
+2024-07,Employer,Consistency,90.59,1204717,595
+2024-07,Transactions,Completeness,83.72,1485775,744
+2024-07,Transactions,Uniqueness,85.03,390075,638
+2024-07,Transactions,Validity,84.95,1383712,524
+2024-07,Transactions,Timeliness,84.9,132168,538
+2024-07,Transactions,Consistency,87.62,573832,460
+2024-08,Client Master,Completeness,91.4,1504135,376
+2024-08,Client Master,Uniqueness,86.9,491751,490
+2024-08,Client Master,Validity,97.37,1345463,77
+2024-08,Client Master,Timeliness,91.84,254850,217
+2024-08,Client Master,Consistency,90.47,1294351,279
+2024-08,Policy Admin,Completeness,87.21,967261,267
+2024-08,Policy Admin,Uniqueness,88.5,1259239,650
+2024-08,Policy Admin,Validity,88.78,774424,411
+2024-08,Policy Admin,Timeliness,91.57,473013,330
+2024-08,Policy Admin,Consistency,88.96,769319,314
+2024-08,Claims,Completeness,94.0,609580,69
+2024-08,Claims,Uniqueness,88.15,120469,443
+2024-08,Claims,Validity,88.09,1051885,622
+2024-08,Claims,Timeliness,84.63,194623,476
+2024-08,Claims,Consistency,87.5,887104,248
+2024-08,Advisor,Completeness,95.06,139604,210
+2024-08,Advisor,Uniqueness,93.52,433011,88
+2024-08,Advisor,Validity,96.95,634378,205
+2024-08,Advisor,Timeliness,90.18,161441,372
+2024-08,Advisor,Consistency,92.5,625782,177
+2024-08,Employer,Completeness,92.51,599608,230
+2024-08,Employer,Uniqueness,90.81,245449,194
+2024-08,Employer,Validity,92.16,815966,215
+2024-08,Employer,Timeliness,90.98,201693,453
+2024-08,Employer,Consistency,90.45,1529639,320
+2024-08,Transactions,Completeness,87.44,1139006,524
+2024-08,Transactions,Uniqueness,85.78,385210,438
+2024-08,Transactions,Validity,89.6,771405,246
+2024-08,Transactions,Timeliness,86.02,158981,358
+2024-08,Transactions,Consistency,89.63,1263343,470
+2024-09,Client Master,Completeness,91.12,946473,306
+2024-09,Client Master,Uniqueness,92.8,1251597,345
+2024-09,Client Master,Validity,92.65,1465602,246
+2024-09,Client Master,Timeliness,93.46,398743,205
+2024-09,Client Master,Consistency,88.21,545486,114
+2024-09,Policy Admin,Completeness,91.02,147975,407
+2024-09,Policy Admin,Uniqueness,91.48,1546254,163
+2024-09,Policy Admin,Validity,90.99,856541,314
+2024-09,Policy Admin,Timeliness,87.34,988637,184
+2024-09,Policy Admin,Consistency,87.89,664327,293
+2024-09,Claims,Completeness,87.51,380172,487
+2024-09,Claims,Uniqueness,89.53,526908,203
+2024-09,Claims,Validity,88.49,1415858,341
+2024-09,Claims,Timeliness,86.08,1395094,392
+2024-09,Claims,Consistency,87.22,1279715,493
+2024-09,Advisor,Completeness,92.17,684035,360
+2024-09,Advisor,Uniqueness,88.13,1534583,227
+2024-09,Advisor,Validity,93.72,624543,165
+2024-09,Advisor,Timeliness,96.68,676540,233
+2024-09,Advisor,Consistency,96.4,693752,114
+2024-09,Employer,Completeness,91.42,1095125,100
+2024-09,Employer,Uniqueness,89.6,1176113,363
+2024-09,Employer,Validity,92.44,830201,290
+2024-09,Employer,Timeliness,92.93,1400211,140
+2024-09,Employer,Consistency,89.63,627101,291
+2024-09,Transactions,Completeness,88.82,989936,415
+2024-09,Transactions,Uniqueness,87.27,511052,313
+2024-09,Transactions,Validity,86.43,1044950,420
+2024-09,Transactions,Timeliness,86.81,1342891,537
+2024-09,Transactions,Consistency,86.42,269305,549
+2024-10,Client Master,Completeness,81.99,324730,675
+2024-10,Client Master,Uniqueness,91.49,1396076,253
+2024-10,Client Master,Validity,91.66,863830,397
+2024-10,Client Master,Timeliness,91.96,1496915,310
+2024-10,Client Master,Consistency,93.86,1473003,49
+2024-10,Policy Admin,Completeness,88.98,1148462,527
+2024-10,Policy Admin,Uniqueness,87.91,1282921,460
+2024-10,Policy Admin,Validity,90.31,950262,372
+2024-10,Policy Admin,Timeliness,90.26,258188,250
+2024-10,Policy Admin,Consistency,88.8,1475370,472
+2024-10,Claims,Completeness,87.86,1412280,384
+2024-10,Claims,Uniqueness,91.25,294256,330
+2024-10,Claims,Validity,87.64,1415785,226
+2024-10,Claims,Timeliness,89.72,945410,310
+2024-10,Claims,Consistency,88.62,713821,202
+2024-10,Advisor,Completeness,98.33,644511,0
+2024-10,Advisor,Uniqueness,95.86,1410977,315
+2024-10,Advisor,Validity,96.63,806038,106
+2024-10,Advisor,Timeliness,95.86,741476,176
+2024-10,Advisor,Consistency,92.68,283986,371
+2024-10,Employer,Completeness,91.72,1250198,307
+2024-10,Employer,Uniqueness,90.6,1441363,351
+2024-10,Employer,Validity,90.91,1253332,397
+2024-10,Employer,Timeliness,91.45,1205029,485
+2024-10,Employer,Consistency,91.68,727959,238
+2024-10,Transactions,Completeness,87.79,1470385,463
+2024-10,Transactions,Uniqueness,83.94,988245,515
+2024-10,Transactions,Validity,85.16,1313167,456
+2024-10,Transactions,Timeliness,89.19,1138652,421
+2024-10,Transactions,Consistency,89.39,532260,357
+2024-11,Client Master,Completeness,90.87,755408,171
+2024-11,Client Master,Uniqueness,89.25,270343,410
+2024-11,Client Master,Validity,84.56,580654,554
+2024-11,Client Master,Timeliness,93.39,1135644,424
+2024-11,Client Master,Consistency,94.44,1375791,73
+2024-11,Policy Admin,Completeness,90.34,1568699,266
+2024-11,Policy Admin,Uniqueness,91.22,636819,474
+2024-11,Policy Admin,Validity,90.86,1593281,339
+2024-11,Policy Admin,Timeliness,88.97,298765,213
+2024-11,Policy Admin,Consistency,89.51,1147944,353
+2024-11,Claims,Completeness,84.83,863705,470
+2024-11,Claims,Uniqueness,89.17,116296,417
+2024-11,Claims,Validity,84.11,569970,366
+2024-11,Claims,Timeliness,87.11,1587500,439
+2024-11,Claims,Consistency,88.22,352256,266
+2024-11,Advisor,Completeness,92.01,407332,278
+2024-11,Advisor,Uniqueness,94.0,1585647,306
+2024-11,Advisor,Validity,91.35,1023634,283
+2024-11,Advisor,Timeliness,92.82,214301,236
+2024-11,Advisor,Consistency,96.27,844674,282
+2024-11,Employer,Completeness,86.33,568736,527
+2024-11,Employer,Uniqueness,92.16,1429874,73
+2024-11,Employer,Validity,91.61,507245,291
+2024-11,Employer,Timeliness,87.55,126430,554
+2024-11,Employer,Consistency,91.68,1425859,294
+2024-11,Transactions,Completeness,89.58,318952,209
+2024-11,Transactions,Uniqueness,87.74,1105234,300
+2024-11,Transactions,Validity,89.21,775954,427
+2024-11,Transactions,Timeliness,89.92,662183,560
+2024-11,Transactions,Consistency,86.38,90220,526
+2024-12,Client Master,Completeness,93.54,376898,327
+2024-12,Client Master,Uniqueness,92.92,1575702,228
+2024-12,Client Master,Validity,93.75,387964,153
+2024-12,Client Master,Timeliness,93.29,1279659,293
+2024-12,Client Master,Consistency,92.31,1509655,200
+2024-12,Policy Admin,Completeness,91.4,712695,505
+2024-12,Policy Admin,Uniqueness,90.2,1186093,239
+2024-12,Policy Admin,Validity,90.25,145613,81
+2024-12,Policy Admin,Timeliness,91.18,211376,205
+2024-12,Policy Admin,Consistency,91.96,835663,397
+2024-12,Claims,Completeness,88.39,945344,331
+2024-12,Claims,Uniqueness,89.02,387482,471
+2024-12,Claims,Validity,87.47,166277,424
+2024-12,Claims,Timeliness,88.32,795797,359
+2024-12,Claims,Consistency,88.88,1255042,320
+2024-12,Advisor,Completeness,96.44,83343,107
+2024-12,Advisor,Uniqueness,95.29,368331,120
+2024-12,Advisor,Validity,98.0,950222,0
+2024-12,Advisor,Timeliness,93.86,801055,325
+2024-12,Advisor,Consistency,92.53,776168,145
+2024-12,Employer,Completeness,91.73,249807,271
+2024-12,Employer,Uniqueness,89.4,1029286,332
+2024-12,Employer,Validity,91.5,488803,370
+2024-12,Employer,Timeliness,85.61,309926,325
+2024-12,Employer,Consistency,92.33,909539,535
+2024-12,Transactions,Completeness,86.61,319122,400
+2024-12,Transactions,Uniqueness,88.15,1383280,481
+2024-12,Transactions,Validity,88.4,1467455,509
+2024-12,Transactions,Timeliness,87.55,464836,626
+2024-12,Transactions,Consistency,88.44,755934,409
+2025-01,Client Master,Completeness,96.66,547673,66
+2025-01,Client Master,Uniqueness,92.22,784961,507
+2025-01,Client Master,Validity,90.49,89791,369
+2025-01,Client Master,Timeliness,90.09,515003,338
+2025-01,Client Master,Consistency,91.57,932156,311
+2025-01,Policy Admin,Completeness,88.87,724996,529
+2025-01,Policy Admin,Uniqueness,89.3,178374,385
+2025-01,Policy Admin,Validity,89.16,1218913,469
+2025-01,Policy Admin,Timeliness,90.1,1212011,534
+2025-01,Policy Admin,Consistency,91.74,300342,322
+2025-01,Claims,Completeness,88.53,1306043,365
+2025-01,Claims,Uniqueness,87.86,1125493,307
+2025-01,Claims,Validity,87.97,300266,594
+2025-01,Claims,Timeliness,88.03,1439787,492
+2025-01,Claims,Consistency,92.05,183548,215
+2025-01,Advisor,Completeness,96.4,509232,0
+2025-01,Advisor,Uniqueness,95.18,1134031,228
+2025-01,Advisor,Validity,95.8,612317,105
+2025-01,Advisor,Timeliness,96.77,1217821,0
+2025-01,Advisor,Consistency,94.46,179048,141
+2025-01,Employer,Completeness,93.6,741076,118
+2025-01,Employer,Uniqueness,91.06,664147,378
+2025-01,Employer,Validity,92.27,843184,277
+2025-01,Employer,Timeliness,88.69,1361545,427
+2025-01,Employer,Consistency,92.93,1578308,104
+2025-01,Transactions,Completeness,86.32,1597790,260
+2025-01,Transactions,Uniqueness,87.89,1203826,340
+2025-01,Transactions,Validity,89.64,618085,184
+2025-01,Transactions,Timeliness,89.69,1065205,412
+2025-01,Transactions,Consistency,87.75,1439220,359
+2025-02,Client Master,Completeness,91.17,1199123,267
+2025-02,Client Master,Uniqueness,90.11,1167641,623
+2025-02,Client Master,Validity,88.24,793627,368
+2025-02,Client Master,Timeliness,91.92,656430,269
+2025-02,Client Master,Consistency,89.15,1494140,266
+2025-02,Policy Admin,Completeness,90.54,721452,138
+2025-02,Policy Admin,Uniqueness,92.74,485012,194
+2025-02,Policy Admin,Validity,89.05,833985,308
+2025-02,Policy Admin,Timeliness,90.27,1253801,319
+2025-02,Policy Admin,Consistency,89.54,998757,361
+2025-02,Claims,Completeness,86.65,1221365,485
+2025-02,Claims,Uniqueness,89.73,910259,555
+2025-02,Claims,Validity,88.51,383661,357
+2025-02,Claims,Timeliness,87.55,1487951,415
+2025-02,Claims,Consistency,88.0,357066,461
+2025-02,Advisor,Completeness,94.64,359960,212
+2025-02,Advisor,Uniqueness,95.92,775796,253
+2025-02,Advisor,Validity,94.38,559042,128
+2025-02,Advisor,Timeliness,98.44,629085,0
+2025-02,Advisor,Consistency,97.76,963187,93
+2025-02,Employer,Completeness,91.32,1334886,221
+2025-02,Employer,Uniqueness,90.53,1243190,318
+2025-02,Employer,Validity,91.92,787002,567
+2025-02,Employer,Timeliness,89.85,1122614,423
+2025-02,Employer,Consistency,90.48,549532,234
+2025-02,Transactions,Completeness,83.8,384279,427
+2025-02,Transactions,Uniqueness,84.55,488873,703
+2025-02,Transactions,Validity,88.79,651037,423
+2025-02,Transactions,Timeliness,84.92,1089600,704
+2025-02,Transactions,Consistency,86.15,330477,451
+2025-03,Client Master,Completeness,93.46,735184,87
+2025-03,Client Master,Uniqueness,93.53,1599129,96
+2025-03,Client Master,Validity,91.94,336102,441
+2025-03,Client Master,Timeliness,91.74,1405954,307
+2025-03,Client Master,Consistency,88.76,578510,386
+2025-03,Policy Admin,Completeness,88.09,937884,510
+2025-03,Policy Admin,Uniqueness,89.9,1224117,376
+2025-03,Policy Admin,Validity,89.13,248880,403
+2025-03,Policy Admin,Timeliness,91.24,417117,269
+2025-03,Policy Admin,Consistency,91.59,216835,291
+2025-03,Claims,Completeness,88.75,451247,376
+2025-03,Claims,Uniqueness,88.01,1455712,306
+2025-03,Claims,Validity,88.82,632218,368
+2025-03,Claims,Timeliness,87.94,461113,415
+2025-03,Claims,Consistency,88.84,99466,182
+2025-03,Advisor,Completeness,92.76,1076548,144
+2025-03,Advisor,Uniqueness,97.46,1429892,156
+2025-03,Advisor,Validity,96.6,537545,42
+2025-03,Advisor,Timeliness,95.13,1105225,0
+2025-03,Advisor,Consistency,97.27,876309,0
+2025-03,Employer,Completeness,85.21,1034648,452
+2025-03,Employer,Uniqueness,92.95,1487313,125
+2025-03,Employer,Validity,93.44,1510206,162
+2025-03,Employer,Timeliness,89.44,1431503,516
+2025-03,Employer,Consistency,91.9,1546184,277
+2025-03,Transactions,Completeness,84.92,797446,507
+2025-03,Transactions,Uniqueness,89.75,788856,500
+2025-03,Transactions,Validity,86.21,859713,510
+2025-03,Transactions,Timeliness,84.79,1232329,455
+2025-03,Transactions,Consistency,89.32,1488243,468
+2025-04,Client Master,Completeness,91.12,906339,259
+2025-04,Client Master,Uniqueness,89.58,708798,316
+2025-04,Client Master,Validity,95.33,417310,129
+2025-04,Client Master,Timeliness,92.48,407009,377
+2025-04,Client Master,Consistency,87.39,290904,435
+2025-04,Policy Admin,Completeness,89.53,1033499,328
+2025-04,Policy Admin,Uniqueness,86.45,1307305,262
+2025-04,Policy Admin,Validity,91.99,894124,251
+2025-04,Policy Admin,Timeliness,88.53,1475908,400
+2025-04,Policy Admin,Consistency,90.66,1544386,277
+2025-04,Claims,Completeness,87.49,1570325,405
+2025-04,Claims,Uniqueness,85.53,1443645,537
+2025-04,Claims,Validity,90.67,1547175,407
+2025-04,Claims,Timeliness,87.31,1222100,182
+2025-04,Claims,Consistency,89.8,1132895,448
+2025-04,Advisor,Completeness,92.08,92646,197
+2025-04,Advisor,Uniqueness,87.89,92462,456
+2025-04,Advisor,Validity,96.44,318502,0
+2025-04,Advisor,Timeliness,91.65,1589486,565
+2025-04,Advisor,Consistency,94.02,408366,221
+2025-04,Employer,Completeness,90.32,210221,441
+2025-04,Employer,Uniqueness,92.1,201374,122
+2025-04,Employer,Validity,85.01,970055,288
+2025-04,Employer,Timeliness,83.72,1095975,606
+2025-04,Employer,Consistency,88.84,504453,521
+2025-04,Transactions,Completeness,87.1,1394771,412
+2025-04,Transactions,Uniqueness,86.33,418690,476
+2025-04,Transactions,Validity,85.06,470933,622
+2025-04,Transactions,Timeliness,87.79,1445947,547
+2025-04,Transactions,Consistency,87.15,417711,499
+2025-05,Client Master,Completeness,90.97,1365075,308
+2025-05,Client Master,Uniqueness,91.25,754723,373
+2025-05,Client Master,Validity,89.44,1226353,248
+2025-05,Client Master,Timeliness,92.11,880148,434
+2025-05,Client Master,Consistency,94.22,910714,148
+2025-05,Policy Admin,Completeness,92.31,598663,387
+2025-05,Policy Admin,Uniqueness,88.86,437232,378
+2025-05,Policy Admin,Validity,84.82,1461197,550
+2025-05,Policy Admin,Timeliness,90.49,1053837,423
+2025-05,Policy Admin,Consistency,91.47,1042373,464
+2025-05,Claims,Completeness,85.72,465450,415
+2025-05,Claims,Uniqueness,89.96,723086,145
+2025-05,Claims,Validity,88.1,1135879,313
+2025-05,Claims,Timeliness,84.49,1190698,739
+2025-05,Claims,Consistency,89.3,552242,283
+2025-05,Advisor,Completeness,93.3,177415,174
+2025-05,Advisor,Uniqueness,96.31,1487460,0
+2025-05,Advisor,Validity,95.6,998326,212
+2025-05,Advisor,Timeliness,93.39,1399424,130
+2025-05,Advisor,Consistency,95.73,1214206,232
+2025-05,Employer,Completeness,92.24,578663,254
+2025-05,Employer,Uniqueness,96.2,924429,171
+2025-05,Employer,Validity,83.31,506196,586
+2025-05,Employer,Timeliness,89.27,532228,443
+2025-05,Employer,Consistency,88.52,216959,440
+2025-05,Transactions,Completeness,86.54,854235,729
+2025-05,Transactions,Uniqueness,87.81,1166835,485
+2025-05,Transactions,Validity,84.7,290100,497
+2025-05,Transactions,Timeliness,82.03,143802,661
+2025-05,Transactions,Consistency,85.83,983759,553
+2025-06,Client Master,Completeness,95.27,820255,131
+2025-06,Client Master,Uniqueness,90.96,1030710,323
+2025-06,Client Master,Validity,91.93,713322,330
+2025-06,Client Master,Timeliness,91.13,763616,371
+2025-06,Client Master,Consistency,93.04,1309412,81
+2025-06,Policy Admin,Completeness,91.08,1355829,108
+2025-06,Policy Admin,Uniqueness,91.88,1340860,360
+2025-06,Policy Admin,Validity,92.6,814627,240
+2025-06,Policy Admin,Timeliness,88.52,989656,643
+2025-06,Policy Admin,Consistency,86.0,1480344,363
+2025-06,Claims,Completeness,87.27,1199240,366
+2025-06,Claims,Uniqueness,88.4,1268210,461
+2025-06,Claims,Validity,87.09,473184,108
+2025-06,Claims,Timeliness,87.36,1495792,400
+2025-06,Claims,Consistency,87.72,1588820,386
+2025-06,Advisor,Completeness,93.51,511462,187
+2025-06,Advisor,Uniqueness,94.44,1012019,285
+2025-06,Advisor,Validity,93.13,1311426,234
+2025-06,Advisor,Timeliness,96.01,1145131,172
+2025-06,Advisor,Consistency,91.96,185009,353
+2025-06,Employer,Completeness,90.33,1349482,333
+2025-06,Employer,Uniqueness,91.21,1398531,332
+2025-06,Employer,Validity,92.22,1185513,184
+2025-06,Employer,Timeliness,90.88,1025120,303
+2025-06,Employer,Consistency,90.84,776085,307
+2025-06,Transactions,Completeness,86.05,223041,387
+2025-06,Transactions,Uniqueness,85.52,1115570,165
+2025-06,Transactions,Validity,84.61,505932,430
+2025-06,Transactions,Timeliness,83.41,1296435,542
+2025-06,Transactions,Consistency,88.77,560427,573
+2025-07,Client Master,Completeness,93.19,954829,76
+2025-07,Client Master,Uniqueness,91.48,622158,129
+2025-07,Client Master,Validity,92.9,802939,0
+2025-07,Client Master,Timeliness,94.19,1138529,70
+2025-07,Client Master,Consistency,93.5,263585,347
+2025-07,Policy Admin,Completeness,90.08,666307,266
+2025-07,Policy Admin,Uniqueness,91.89,722302,523
+2025-07,Policy Admin,Validity,87.6,1314512,403
+2025-07,Policy Admin,Timeliness,92.66,105668,359
+2025-07,Policy Admin,Consistency,90.28,1006034,265
+2025-07,Claims,Completeness,88.06,838208,323
+2025-07,Claims,Uniqueness,87.76,581705,430
+2025-07,Claims,Validity,87.58,1114424,371
+2025-07,Claims,Timeliness,89.44,578432,558
+2025-07,Claims,Consistency,85.67,461304,667
+2025-07,Advisor,Completeness,91.98,1433976,271
+2025-07,Advisor,Uniqueness,95.34,1454039,0
+2025-07,Advisor,Validity,93.13,1024252,189
+2025-07,Advisor,Timeliness,97.34,832393,0
+2025-07,Advisor,Consistency,93.36,1532397,0
+2025-07,Employer,Completeness,90.93,143872,279
+2025-07,Employer,Uniqueness,94.67,792368,96
+2025-07,Employer,Validity,93.63,653309,164
+2025-07,Employer,Timeliness,90.29,669143,171
+2025-07,Employer,Consistency,91.93,1517061,259
+2025-07,Transactions,Completeness,86.06,997639,468
+2025-07,Transactions,Uniqueness,87.89,597770,228
+2025-07,Transactions,Validity,86.18,556756,603
+2025-07,Transactions,Timeliness,87.01,1082549,454
+2025-07,Transactions,Consistency,88.57,1309556,447
+2025-08,Client Master,Completeness,90.38,1517638,447
+2025-08,Client Master,Uniqueness,90.9,223111,390
+2025-08,Client Master,Validity,89.69,234815,584
+2025-08,Client Master,Timeliness,91.87,374632,401
+2025-08,Client Master,Consistency,90.77,151764,93
+2025-08,Policy Admin,Completeness,89.01,371988,331
+2025-08,Policy Admin,Uniqueness,87.51,497724,419
+2025-08,Policy Admin,Validity,90.6,166362,585
+2025-08,Policy Admin,Timeliness,89.21,1116822,544
+2025-08,Policy Admin,Consistency,91.0,1493356,287
+2025-08,Claims,Completeness,87.86,1229024,626
+2025-08,Claims,Uniqueness,90.93,197271,345
+2025-08,Claims,Validity,87.89,411418,185
+2025-08,Claims,Timeliness,87.59,461021,403
+2025-08,Claims,Consistency,87.75,688223,447
+2025-08,Advisor,Completeness,97.64,1007145,155
+2025-08,Advisor,Uniqueness,94.4,1169159,0
+2025-08,Advisor,Validity,96.75,476558,65
+2025-08,Advisor,Timeliness,94.81,512577,283
+2025-08,Advisor,Consistency,94.7,107911,324
+2025-08,Employer,Completeness,90.57,723119,349
+2025-08,Employer,Uniqueness,92.19,807946,380
+2025-08,Employer,Validity,91.65,711371,235
+2025-08,Employer,Timeliness,94.28,114518,177
+2025-08,Employer,Consistency,88.78,1436276,516
+2025-08,Transactions,Completeness,88.29,1568147,309
+2025-08,Transactions,Uniqueness,85.89,1331680,466
+2025-08,Transactions,Validity,85.99,977790,383
+2025-08,Transactions,Timeliness,85.18,101093,325
+2025-08,Transactions,Consistency,86.61,519052,211
+2025-09,Client Master,Completeness,93.81,1271598,431
+2025-09,Client Master,Uniqueness,89.29,334233,354
+2025-09,Client Master,Validity,94.35,161095,504
+2025-09,Client Master,Timeliness,92.11,1345716,300
+2025-09,Client Master,Consistency,91.04,823411,650
+2025-09,Policy Admin,Completeness,90.9,1171499,466
+2025-09,Policy Admin,Uniqueness,90.01,1569254,288
+2025-09,Policy Admin,Validity,92.46,472490,274
+2025-09,Policy Admin,Timeliness,92.61,1574906,193
+2025-09,Policy Admin,Consistency,89.86,177717,504
+2025-09,Claims,Completeness,91.09,1543870,396
+2025-09,Claims,Uniqueness,90.52,1131599,428
+2025-09,Claims,Validity,88.0,842569,534
+2025-09,Claims,Timeliness,90.2,274661,462
+2025-09,Claims,Consistency,88.93,1403068,173
+2025-09,Advisor,Completeness,95.89,1362366,97
+2025-09,Advisor,Uniqueness,95.01,425555,222
+2025-09,Advisor,Validity,94.92,391697,20
+2025-09,Advisor,Timeliness,97.44,667969,94
+2025-09,Advisor,Consistency,90.49,1479531,176
+2025-09,Employer,Completeness,86.39,136831,341
+2025-09,Employer,Uniqueness,90.42,415321,361
+2025-09,Employer,Validity,91.88,1168411,226
+2025-09,Employer,Timeliness,89.02,286527,299
+2025-09,Employer,Consistency,87.65,853575,587
+2025-09,Transactions,Completeness,84.85,306089,687
+2025-09,Transactions,Uniqueness,85.27,710667,451
+2025-09,Transactions,Validity,83.09,667211,529
+2025-09,Transactions,Timeliness,88.04,103428,261
+2025-09,Transactions,Consistency,88.15,1517788,388
+2025-10,Client Master,Completeness,91.17,151088,326
+2025-10,Client Master,Uniqueness,87.77,736835,521
+2025-10,Client Master,Validity,91.17,1584066,222
+2025-10,Client Master,Timeliness,92.19,1198188,180
+2025-10,Client Master,Consistency,89.36,109205,305
+2025-10,Policy Admin,Completeness,90.25,1195198,167
+2025-10,Policy Admin,Uniqueness,89.04,1182644,332
+2025-10,Policy Admin,Validity,89.08,364580,513
+2025-10,Policy Admin,Timeliness,87.38,1143576,579
+2025-10,Policy Admin,Consistency,86.4,1005894,514
+2025-10,Claims,Completeness,92.74,1270720,110
+2025-10,Claims,Uniqueness,89.08,1098787,304
+2025-10,Claims,Validity,87.37,455009,434
+2025-10,Claims,Timeliness,88.09,1243580,345
+2025-10,Claims,Consistency,85.62,879771,419
+2025-10,Advisor,Completeness,84.49,1580163,665
+2025-10,Advisor,Uniqueness,98.58,805391,63
+2025-10,Advisor,Validity,96.09,1333973,194
+2025-10,Advisor,Timeliness,93.05,1417755,41
+2025-10,Advisor,Consistency,94.76,1191570,180
+2025-10,Employer,Completeness,93.17,261415,356
+2025-10,Employer,Uniqueness,91.52,1447595,336
+2025-10,Employer,Validity,88.98,674537,636
+2025-10,Employer,Timeliness,89.7,297892,356
+2025-10,Employer,Consistency,90.63,760247,513
+2025-10,Transactions,Completeness,87.79,1059575,292
+2025-10,Transactions,Uniqueness,86.07,158427,559
+2025-10,Transactions,Validity,88.81,603674,552
+2025-10,Transactions,Timeliness,87.06,1581638,446
+2025-10,Transactions,Consistency,87.61,1166874,335
+2025-11,Client Master,Completeness,90.81,1422112,160
+2025-11,Client Master,Uniqueness,89.64,686185,207
+2025-11,Client Master,Validity,92.86,304047,56
+2025-11,Client Master,Timeliness,88.9,97100,344
+2025-11,Client Master,Consistency,94.32,453687,328
+2025-11,Policy Admin,Completeness,89.36,1239836,366
+2025-11,Policy Admin,Uniqueness,93.36,1178865,303
+2025-11,Policy Admin,Validity,90.86,1068771,396
+2025-11,Policy Admin,Timeliness,87.75,175923,527
+2025-11,Policy Admin,Consistency,91.65,192503,151
+2025-11,Claims,Completeness,90.88,93644,282
+2025-11,Claims,Uniqueness,86.87,1133924,266
+2025-11,Claims,Validity,87.58,407793,409
+2025-11,Claims,Timeliness,90.59,1224008,313
+2025-11,Claims,Consistency,88.82,712442,498
+2025-11,Advisor,Completeness,94.75,1247308,0
+2025-11,Advisor,Uniqueness,95.17,1520828,448
+2025-11,Advisor,Validity,94.56,987201,266
+2025-11,Advisor,Timeliness,96.27,1415888,372
+2025-11,Advisor,Consistency,93.61,678715,76
+2025-11,Employer,Completeness,89.83,220935,495
+2025-11,Employer,Uniqueness,88.48,311962,461
+2025-11,Employer,Validity,90.21,390800,374
+2025-11,Employer,Timeliness,92.02,1280885,216
+2025-11,Employer,Consistency,94.37,1023922,135
+2025-11,Transactions,Completeness,86.24,112094,428
+2025-11,Transactions,Uniqueness,87.73,1521705,443
+2025-11,Transactions,Validity,86.75,362784,501
+2025-11,Transactions,Timeliness,83.22,557640,783
+2025-11,Transactions,Consistency,84.96,1098864,577
+2025-12,Client Master,Completeness,90.6,931664,232
+2025-12,Client Master,Uniqueness,91.73,1456012,356
+2025-12,Client Master,Validity,90.96,1081211,330
+2025-12,Client Master,Timeliness,91.0,1168843,236
+2025-12,Client Master,Consistency,86.68,550886,775
+2025-12,Policy Admin,Completeness,92.16,590586,370
+2025-12,Policy Admin,Uniqueness,90.15,954199,298
+2025-12,Policy Admin,Validity,93.6,1451254,227
+2025-12,Policy Admin,Timeliness,89.71,856596,275
+2025-12,Policy Admin,Consistency,92.55,711595,366
+2025-12,Claims,Completeness,87.93,1388848,384
+2025-12,Claims,Uniqueness,84.82,1597305,514
+2025-12,Claims,Validity,85.86,148491,570
+2025-12,Claims,Timeliness,79.98,159107,609
+2025-12,Claims,Consistency,90.47,121719,254
+2025-12,Advisor,Completeness,97.32,967841,204
+2025-12,Advisor,Uniqueness,96.88,609210,0
+2025-12,Advisor,Validity,97.98,922933,361
+2025-12,Advisor,Timeliness,93.79,720797,286
+2025-12,Advisor,Consistency,94.23,126711,189
+2025-12,Employer,Completeness,85.78,932218,368
+2025-12,Employer,Uniqueness,85.79,401066,314
+2025-12,Employer,Validity,93.81,1532407,157
+2025-12,Employer,Timeliness,91.59,844948,292
+2025-12,Employer,Consistency,92.87,862625,282
+2025-12,Transactions,Completeness,84.72,1079648,615
+2025-12,Transactions,Uniqueness,89.3,1362432,468
+2025-12,Transactions,Validity,89.23,1304545,414
+2025-12,Transactions,Timeliness,86.77,95469,427
+2025-12,Transactions,Consistency,87.76,382284,516
