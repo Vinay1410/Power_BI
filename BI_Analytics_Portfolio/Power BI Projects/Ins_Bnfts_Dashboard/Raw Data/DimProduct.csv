@@ -1,0 +1,11 @@
+ProductCode,ProductName,LineOfBusiness,MixWeight,BenefitType
+GB_HEALTH,Group Benefits - Health,Benefits,0.3,HEALTH
+GB_DENTAL,Group Benefits - Dental,Benefits,0.25,DENTAL
+GB_STD,Group Benefits - Short Term Disability,Benefits,0.08,STD
+GB_LTD,Group Benefits - Long Term Disability,Benefits,0.06,LTD
+IND_LIFE_TERM,Individual - Term Life,Insurance,0.1,
+IND_LIFE_PERM,Individual - Permanent Life,Insurance,0.06,
+IND_HEALTH,Individual - Health,Insurance,0.03,
+GRS_DC,Group Retirement - DC,Retirement,0.07,
+GRS_RRSP,Group Retirement - Group RRSP,Retirement,0.03,
+WEALTH_SEG,Wealth - Segregated Funds,Wealth,0.02,
