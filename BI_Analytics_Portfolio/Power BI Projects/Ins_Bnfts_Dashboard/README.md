@@ -101,6 +101,7 @@ This allows realistic testing of:
 ### **Service & Experience**
 - Avg CSAT  
 - SLA Met %  
+- Avg Claim Processing
 - Avg Resolution Days  
 
 ### **Executive Headline**
