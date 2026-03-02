@@ -1,55 +1,91 @@
-**\# BI \& Analytics Portfolio — Vinay Verma**
+# 📊 **BI & Analytics Portfolio — Vinay Verma**
 
+Welcome to my Business Intelligence & Risk Analytics portfolio.
 
+This repository showcases end-to-end Power BI projects demonstrating:
 
-This repository contains my end-to-end BI and analytics projects demonstrating:
+- Executive-ready dashboard design  
+- Strong data modeling & DAX logic  
+- Financial and risk KPI frameworks  
+- Portfolio performance analytics  
+- Python-driven data simulation workflows  
+- Clean star schema architecture & governance  
 
-\- Executive-ready dashboard design
+> ⚠️ All projects use simulated data generated via Python or public datasets. No confidential or proprietary business data is included.
 
-\- Strong data modeling and KPI logic
+---
 
-\- Risk and portfolio analytics storytelling
+# 🚀 **Power BI Projects**
 
-\- Python + Power BI workflows
+---
 
+## 1️⃣ **Enterprise Benefits Performance & Risk Dashboard**
 
+An enterprise-style insurance/benefits dashboard covering:
 
--------------------------------------------------------------------------------------------
+- Financial performance (Premiums, Claims, Net Margin)
+- Loss Ratio monitoring vs target
+- Revenue concentration (Pareto analysis)
+- Employer-level risk vs scale
+- Service & SLA performance tracking
+- Data quality monitoring
+- Dynamic executive commentary & narrative measures
 
+📌 Folder:  
+`BI_Analytics_Portfolio/Power BI Projects/Ins_Bnfts_Dashboard`
 
+🔎 Skills Demonstrated:  
+Power BI • DAX • Financial KPI Modeling • Risk Analytics • Pareto Analysis • Star Schema Design • Python Data Simulation
 
-\## Projects
-## **All projects use simulated or public datasets via Python Code. No confidential/proprietary business data is included.**
+---
 
+## 2️⃣ **Residual Value Risk Performance Dashboard**
 
+Captive auto finance-style risk dashboard covering:
 
-\### 1) Residual Value Risk Performance Dashboard (Power BI)
+- Residual value volatility
+- Remarketing outcomes
+- Model & body style risk drivers
+- Regional performance dispersion
+- Portfolio stress indicators
 
-\*\*Captive auto finance-style dashboard\*\* covering residual performance, remarketing outcomes, model/body risk drivers, and regional volatility.
+📌 Folder:  
+`BI_Analytics_Portfolio/Power BI Projects/RV_Risk_Dashboard`
 
+🔎 Skills Demonstrated:  
+Portfolio Risk Analytics • Performance Attribution • Advanced DAX • Executive KPI Design • Python Simulation
 
+---
 
-📌 Folder: `BI_Analytics_Portfolio\Power BI Projects\RV_Risk_Dashboard`
+# 🧠 **Core Capabilities Highlighted**
 
-🔎 Skills: Power BI, DAX, Portfolio Analytics, Risk KPI design, Python data simulation
+- Financial performance modeling  
+- Loss ratio & margin analysis  
+- Risk-adjusted portfolio reporting  
+- Revenue concentration analytics  
+- Dynamic DAX narrative measures  
+- Folder-based data ingestion architecture  
+- Maintainable measure governance  
+- Executive storytelling through dashboards  
 
+---
 
+# 👤 **About Me**
 
--------------------------------------------------------------------------------------------
+- 9 years of experience in BI & Analytics  
+- Background in automotive finance & financial services  
+- Strong focus on business-first analytics  
+- Passionate about risk modeling, portfolio reporting, and executive-ready insights  
 
+🎯 Open to opportunities in:
+- Senior BI Analyst roles  
+- Risk Analytics  
+- Portfolio Performance Reporting  
+- Financial Analytics  
 
+📫 LinkedIn:  
+https://www.linkedin.com/in/vinay-verma-0a7a4675
 
-\## About Me
+---
 
-\- 9 years in BI \& analytics (automotive finance + financial services)
-
-\- Power BI + SQL + data modeling + stakeholder-ready storytelling
-
-\- Interested in: Senior BI roles | Risk Analytics | Portfolio Reporting
-
-
-
-📫 LinkedIn: https://www.linkedin.com/in/vinay-verma-0a7a4675
-
-
-
+Thank you for reviewing my work.
